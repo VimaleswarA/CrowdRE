@@ -37,7 +37,7 @@ In short the study evaluates 4 open-source LLMs across multiple classification g
 
 ```
 
-## Code Overview
+## Overview
 
 The **`Codes/`** directory contains the scripts used for dataset generation, LLM inference, evaluation, and error analysis.
 
